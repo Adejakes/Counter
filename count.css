@@ -1,0 +1,21 @@
+body{
+    background-image: url(./book-shop-billing.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.increament button{
+    font-size: larger;
+    border-radius: 100px;
+    background-color: rgb(21, 235, 110);
+    box-sizing: border-box;
+    border-radius: 50cm;
+    transition: all 1s;
+  
+}
+
+button:hover{
+    background-color: rgb(255, 0, 242);
+    transition: all 1s;
+
+}
