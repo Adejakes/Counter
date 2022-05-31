@@ -17,5 +17,8 @@ body{
 button:hover{
     background-color: rgb(255, 0, 242);
     transition: all 1s;
+    padding: 10px;
+    border: 50px;
+    
 
 }
